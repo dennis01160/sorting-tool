@@ -4,4 +4,10 @@
 
 
 ![anime1](https://github.com/dennis01160/sorting-tool/blob/main/anime1.gif)
+
+
+
+
+
+
 ![anime2](https://github.com/dennis01160/sorting-tool/blob/main/anime2.gif)
